@@ -61,7 +61,19 @@ namespace QS_Demo1
             var scannedCheque =  photoScan.CaptureImage().Result;
             ImagePreview.Source = scannedCheque;
         }
+        private void Deposit_Click(object sender, RoutedEventArgs e)
+        {
+            FrameworkElement DepGrid = (sender as FrameworkElement).FindName("DepGrid") as FrameworkElement;
+            if (DepGrid.Visibility = System.Windows.Visibility.Collapsed)
+            {
+                DepGrid.Visibility = System.Windows.Visibility.Visible;
+            }
+            else
+            {
+                DepGrid.Visibility = System.Windows.Visibility.Collapsed;
 
+            }
+        }
         private void SubmitBtn_Click(object sender, RoutedEventArgs e)
         {
             
