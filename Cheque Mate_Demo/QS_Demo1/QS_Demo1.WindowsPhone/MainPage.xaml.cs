@@ -7,6 +7,7 @@ using Windows.Foundation;
 using Windows.Foundation.Collections;
 using Windows.Media.MediaProperties;
 using Windows.Storage;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -64,19 +65,24 @@ namespace QS_Demo1
         private void Deposit_Click(object sender, RoutedEventArgs e)
         {
             FrameworkElement DepGrid = (sender as FrameworkElement).FindName("DepGrid") as FrameworkElement;
-            if (DepGrid.Visibility = System.Windows.Visibility.Collapsed)
+            FrameworkElement A_Cdetais = (sender as FrameworkElement).FindName("A_Cdetais")as FrameworkElement;
+
+            
+            if (DepGrid.Visibility = System.Windows.Visibility.Collapsed )
             {
-                DepGrid.Visibility = System.Windows.Visibility.Visible;
+                DepGrid.Visibility = Visibility.Visible;
+                A_Cdetais.Visibility = Visibility.Visible;
             }
             else
             {
-                DepGrid.Visibility = System.Windows.Visibility.Collapsed;
+                DepGrid.Visibility = Visibility.Collapsed;
 
             }
         }
-        private void SubmitBtn_Click(object sender, RoutedEventArgs e)
+       async private void SubmitBtn_Click(object sender, RoutedEventArgs e)
         {
-            
+            var dialog = new MessageDialog("Work ON Progress");
+            await dialog.ShowAsync();  
         }
     }
 

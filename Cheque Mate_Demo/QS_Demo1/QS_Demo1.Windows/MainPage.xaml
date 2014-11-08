@@ -266,9 +266,9 @@
 
     <Grid>
         <Grid.Background>
-            <ImageBrush Stretch="Fill" ImageSource="windows_8_metro_wallpaper_by_thetechnotoast-d4v8hwr.png"/>
+            <ImageBrush Stretch="Fill" ImageSource="windows-8-wallpaper-12.jpg"/>
         </Grid.Background>
-        <Grid HorizontalAlignment="Left" Height="758" VerticalAlignment="Top" Width="279" Margin="10,0,0,0">
+        <Grid HorizontalAlignment="Left" Height="758" VerticalAlignment="Top" Width="279" Margin="10,20,0,-10">
             <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Cheque" VerticalAlignment="Top" Margin="10,10,0,0" Height="48" Width="117" FontSize="29.333" FontStyle="Italic">
                 <TextBlock.Foreground>
                     <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
@@ -277,7 +277,8 @@
                     </LinearGradientBrush>
                 </TextBlock.Foreground>
             </TextBlock>
-            <Button Content="Cheque Deposit" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.875,2.879" Margin="7,0,0,625" Width="265" Height="66" FontSize="21.333" Foreground="#FF231B1B">
+            <ProgressRing x:Name="PrgRing" IsActive="True" Visibility="Collapsed" Margin="1187,95,-968,608" Height="55" Foreground="Black" Width="60"/>
+            <Button Content="Cheque Deposit" Click="DepClick" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.875,2.879" Margin="7,0,0,625" Width="265" Height="66" FontSize="21.333" Foreground="#FF231B1B">
                 <Button.BorderBrush>
                     <ImageBrush Stretch="Fill"/>
                 </Button.BorderBrush>
@@ -285,7 +286,7 @@
                     <ImageBrush Stretch="Fill"/>
                 </Button.Background>
             </Button>
-            <Button Content="Digital Cheque Transfer" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.763,3.036" Margin="7,147,-3,0" Width="275" Height="66" FontSize="21.333" Foreground="#FF130F0F">
+            <Button x:Name="NxtWrkButton" Click="NxtWrkButton_OnClick" Content="Digital Cheque Transfer" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.763,3.036" Margin="7,147,-3,0" Width="275" Height="66" FontSize="21.333" Foreground="#FF130F0F">
                 <Button.BorderBrush>
                     <ImageBrush Stretch="Fill"/>
                 </Button.BorderBrush>
@@ -298,18 +299,18 @@
                     <Border.BorderBrush>
                         <ImageBrush Stretch="Fill"/>
                     </Border.BorderBrush>
-                    <StackPanel Margin="0,0,510,508">
+                    <StackPanel x:Name="DePanel" Visibility="Collapsed" Margin="0,0,510,508">
                         <Button Content="Capture Photo" Click="CapturePhoto_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="60" FontSize="20" Foreground="#FF292626">
                             <Button.BorderBrush>
                                 <ImageBrush Stretch="Fill"/>
                             </Button.BorderBrush>
                         </Button>
-                        <Button Content="Preview Cheque" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="59" FontSize="20" Foreground="#FF2B2727">
+                        <!--<Button Content="Preview Cheque" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="59" FontSize="20" Foreground="#FF2B2727">
                             <Button.BorderBrush>
                                 <ImageBrush Stretch="Fill"/>
                             </Button.BorderBrush>
-                        </Button>
-                        <Button Content="Send Cheque" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="57" FontSize="20" Foreground="#FF211C1C">
+                        </Button>-->
+                        <Button Content="Submit" Click="Submit_Click" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Height="57" FontSize="20" Foreground="#FF211C1C">
                             <Button.BorderBrush>
                                 <ImageBrush Stretch="Fill"/>
                             </Button.BorderBrush>
@@ -319,20 +320,26 @@
             </StackPanel>
             <Image x:Name="TakenImage" HorizontalAlignment="Left" Height="339" Margin="34,244,0,0" VerticalAlignment="Top" Width="699"/>
             <!--<CaptureElement HorizontalAlignment="Left" Height="339" Margin="34,244,0,0" VerticalAlignment="Top" Width="699"/>-->
-            <TextBlock TextWrapping="Wrap" Height="32" VerticalAlignment="Bottom" Margin="253,0,240,689" RenderTransformOrigin="0.607,-4.275" FontSize="17.333" Foreground="#FF1B1515">
+            <Grid x:Name="Grd2" Visibility="Collapsed">
+                <TextBlock TextWrapping="Wrap" Height="32" VerticalAlignment="Bottom" Margin="253,0,240,689" RenderTransformOrigin="0.607,-4.275" FontSize="17.333" Foreground="#FF1B1515">
     			<Run Text="Account Holder "/>
     			<Run Text="Name:"/>
-            </TextBlock>
-            <TextBox TextWrapping="Wrap" Margin="532,17,0,689" HorizontalAlignment="Left" Width="196" RenderTransformOrigin="0.643,0.523"/>
-            <TextBlock HorizontalAlignment="Left" Margin="253,54,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
-            <TextBlock HorizontalAlignment="Left" Margin="253,91,0,0" TextWrapping="Wrap" Text="Bank Name" VerticalAlignment="Top" Height="27" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
-            <TextBlock HorizontalAlignment="Left" Margin="253,132,0,0" TextWrapping="Wrap" Text="Branch Name" VerticalAlignment="Top" Height="28" Width="279" FontSize="17.333" Foreground="#FF1B1515"/>
-            <TextBlock HorizontalAlignment="Left" Margin="253,170,0,0" TextWrapping="Wrap" Text="Cheque Post Date" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
-            <TextBox HorizontalAlignment="Left" Margin="532,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
-            <TextBox HorizontalAlignment="Left" Margin="532,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
-            <TextBox HorizontalAlignment="Left" Margin="532,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
+                </TextBlock>
+                <TextBox x:Name="TextBoxAcntHldrName" TextWrapping="Wrap" Margin="532,17,0,689" HorizontalAlignment="Left" Width="196" RenderTransformOrigin="0.643,0.523"/>
+                <TextBlock HorizontalAlignment="Left" Margin="253,54,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
+                <TextBlock HorizontalAlignment="Left" Margin="253,91,0,0" TextWrapping="Wrap" Text="Bank Name" VerticalAlignment="Top" Height="27" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
+                <TextBlock x:Name="TextBoxChkName" HorizontalAlignment="Left" Margin="253,132,0,0" TextWrapping="Wrap" Text="Check No" VerticalAlignment="Top" Height="28" Width="279" FontSize="17.333" Foreground="#FF1B1515"/>
+                <TextBlock HorizontalAlignment="Left" Margin="253,170,0,0" TextWrapping="Wrap" Text="Cheque Post Date" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515" RenderTransformOrigin="0.5,0.5">
+                    <TextBlock.RenderTransform>
+                        <CompositeTransform Rotation="-0.567"/>
+                    </TextBlock.RenderTransform>
+                </TextBlock>
+                <TextBox x:Name="TextBoxAcntNo" HorizontalAlignment="Left" Margin="532,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
+                <TextBox x:Name="TextBoxBnkName" HorizontalAlignment="Left" Margin="532,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
+                <TextBox HorizontalAlignment="Left" Margin="532,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="196"/>
+                <TextBox HorizontalAlignment="Left" Margin="532,165,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
+            </Grid>
         </Grid>
-        <TextBox HorizontalAlignment="Left" Margin="823,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="195"/>
 
     </Grid>
 </Page>
