@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAHUL-PC</Machine>
+    <WindowsUser>rahul1</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>19ea37e0-6fa3-48f7-a45b-976b46d82286</PackageIdentityName>
+    <IntermediateOutputPath>D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6867D2F642A8C32BEFF0A7D1D85C7D0ECFC1A4B0A991A189E954D82B03614C51</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19ea37e0-6fa3-48f7-a45b-976b46d82286_1.0.0.0_x64__c5x8b6wd19sfw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19ea37e0-6fa3-48f7-a45b-976b46d82286_c5x8b6wd19sfw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19ea37e0-6fa3-48f7-a45b-976b46d82286</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sreek_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-08T19:43:08.145</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\x64\Debug\QS_Demo1.Windows.exe">
+      <PackagePath>QS_Demo1.Windows.exe</PackagePath>
+      <Modified>2014-11-08T19:48:20.821</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\packages\Microsoft.Windows.Ocr.1.0.0\build\win81\\..\..\lib\win81\x64\WindowsPreview.Media.Ocr.winmd">
+      <PackagePath>WindowsPreview.Media.Ocr.winmd</PackagePath>
+      <Modified>2014-11-08T18:23:16.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\packages\Microsoft.Windows.Ocr.1.0.0\build\win81\..\..\lib\win81\x64\WindowsPreview.Media.Ocr.dll">
+      <PackagePath>WindowsPreview.Media.Ocr.dll</PackagePath>
+      <Modified>2014-11-08T18:23:16.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\OcrResources\MsOcrRes.orp">
+      <PackagePath>OcrResources\MsOcrRes.orp</PackagePath>
+      <Modified>2014-11-08T18:23:47.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-08T19:15:31.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-08T19:15:31.651</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\x64\Debug\QS_Demo1.Windows.xr.xml">
+      <PackagePath>QS_Demo1.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-08T18:29:38.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-08T19:43:07.128</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

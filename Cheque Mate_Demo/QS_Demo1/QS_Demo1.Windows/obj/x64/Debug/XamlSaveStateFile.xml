@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\qs_demo1\qs_demo1\qs_demo1.windows\obj\x64\debug\intermediatexaml\qs_demo1.windows.exe" HashGuid="39f7d934-5ef9-4ddd-820d-4ab7f16f3bd4" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\qs_demo1\packages\microsoft.windows.ocr.1.0.0\lib\win81\x64\windowspreview.media.ocr.winmd" HashGuid="a5310a53-1cc2-dceb-da35-610421ecb7df" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,64 @@
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\App.xbf
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.xr.xml
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.exe
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.pdb
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\resources.pri
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.build.appxrecipe
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.xaml
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.xbf
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\QS_Demo1.WindowsPhone.exe
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\QS_Demo1.WindowsPhone.pdb
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\App.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\MainPage.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.xr.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.exe
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.pdb
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\resources.pri
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\bin\Debug\QS_Demo1.WindowsPhone.build.appxrecipe
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.g.i.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.g.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.xaml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.xaml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\App.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MainPage.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\QS_Demo1.WindowsPhone.exe
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\QS_Demo1.WindowsPhone.pdb
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\priconfig.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\layout.resfiles
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\resources.resfiles
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\pri.resfiles
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\qualifiers.txt
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\QS_Demo1\QS_Demo1\QS_Demo1.WindowsPhone\obj\Debug\ProjectArchitectures.txt

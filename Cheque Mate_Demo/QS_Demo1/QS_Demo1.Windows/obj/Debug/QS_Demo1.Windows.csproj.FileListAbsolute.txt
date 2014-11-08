@@ -1,0 +1,64 @@
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.g.i.cs
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.g.cs
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.g.cs
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.xaml
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.xaml
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.xbf
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.xbf
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\App.xbf
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\MainPage.xbf
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.xr.xml
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.exe
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.pdb
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\resources.pri
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\AppxManifest.xml
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.build.appxrecipe
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\QS_Demo1.Windows.exe
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\QS_Demo1.Windows.pdb
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\priconfig.xml
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\layout.resfiles
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\resources.resfiles
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\pri.resfiles
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\qualifiers.txt
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\sreek_000\documents\visual studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\ProjectArchitectures.txt
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\App.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\MainPage.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.xr.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.exe
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.pdb
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\resources.pri
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\AppxManifest.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.build.appxrecipe
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.g.i.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.g.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.g.i.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.g.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.xaml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.xaml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\App.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MainPage.xbf
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\QS_Demo1.Windows.exe
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\QS_Demo1.Windows.pdb
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\priconfig.xml
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\priconfig.xml.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\layout.resfiles
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\layout.resfiles.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\resources.resfiles
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\resources.resfiles.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\pri.resfiles
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\pri.resfiles.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\qualifiers.txt
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\ProjectArchitectures.txt

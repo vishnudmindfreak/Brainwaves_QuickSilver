@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOXIC</Machine>
+    <WindowsUser>sreek_000</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>19ea37e0-6fa3-48f7-a45b-976b46d82286</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7840F2706A56FC5F2ED15A74E8F39B1AD585C78A518D432A0B7522B7DB0476B0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19ea37e0-6fa3-48f7-a45b-976b46d82286_1.0.0.0_neutral__c5x8b6wd19sfw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19ea37e0-6fa3-48f7-a45b-976b46d82286_c5x8b6wd19sfw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19ea37e0-6fa3-48f7-a45b-976b46d82286</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=sreek_000</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-08T14:54:31.164</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.exe">
+      <PackagePath>QS_Demo1.Windows.exe</PackagePath>
+      <Modified>2014-11-08T18:09:25.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T05:25:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-08T13:25:12.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-08T18:09:25.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\QS_Demo1.Windows.xr.xml">
+      <PackagePath>QS_Demo1.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-08T14:54:27.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\sreek_000\Documents\Visual Studio 2013\Projects\QS_Demo1\QS_Demo1\QS_Demo1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-08T14:54:29.459</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
