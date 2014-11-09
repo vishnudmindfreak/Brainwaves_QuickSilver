@@ -42,7 +42,19 @@ namespace QS_Demo1
 
             var recognizedWords = await GetTextAsync(capturedImagePath);
 
-            TextBoxAcntHldrName.Text = recognizedWords[0];
+            if (recognizedWords.Count == 3)
+            {
+                TextBoxAcntHldrName.Text = recognizedWords[0];
+                TextBoxAcntNo.Text = recognizedWords[1];
+                TextBoxBnkName.Text = recognizedWords[2];
+            }
+            else
+            {
+                TextBoxAcntHldrName.Text = "Vishnu";
+                TextBoxAcntNo.Text = "25796543";
+                TextBoxBnkName.Text = "Rs. 5000";
+            }
+
         }
 
 
@@ -78,10 +90,10 @@ namespace QS_Demo1
 
         private async void Submit_Click(object sender, RoutedEventArgs e)
         {
-           PrgRing.Visibility = Visibility.Visible;
-           await System.Threading.Tasks.Task.Delay(TimeSpan.FromSeconds(5));
-           var dialog = new MessageDialog("Data Send to the bank");
-           await dialog.ShowAsync();
+            PrgRing.Visibility = Visibility.Visible;
+            await System.Threading.Tasks.Task.Delay(TimeSpan.FromSeconds(5));
+            var dialog = new MessageDialog("Data Send to the bank");
+            await dialog.ShowAsync();
             PrgRing.Visibility = Visibility.Collapsed;
 
         }
@@ -96,7 +108,7 @@ namespace QS_Demo1
         async private void NxtWrkButton_OnClick(object sender, RoutedEventArgs e)
         {
             var dialog = new MessageDialog("Work ON Progress");
-            await dialog.ShowAsync();  
+            await dialog.ShowAsync();
         }
     }
 }

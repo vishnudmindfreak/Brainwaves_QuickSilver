@@ -33,7 +33,7 @@ namespace QS_Demo1
             this.NavigationCacheMode = NavigationCacheMode.Required;
         }
 
-        /// <summary>
+             /// <summary>
         /// Invoked when this page is about to be displayed in a Frame.
         /// </summary>
         /// <param name="e">Event data that describes how this page was reached.
@@ -53,14 +53,14 @@ namespace QS_Demo1
         async private void InitCameraBtn_Click(object sender,RoutedEventArgs e)
         {
             var photoScan = new PhotoScan();
-           await photoScan.StartPreview(CapturePreview);
+            //await photoScan.StartPreview(CapturePreview);
         }
 
         private async void CaptureBtn_Click(object sender, RoutedEventArgs e)
         {
             var photoScan = new PhotoScan();
             var scannedCheque =  photoScan.CaptureImage().Result;
-            ImagePreview.Source = scannedCheque;
+            //ImagePreview.Source = scannedCheque;
         }
         private void Deposit_Click(object sender, RoutedEventArgs e)
         {
@@ -68,16 +68,12 @@ namespace QS_Demo1
             FrameworkElement A_Cdetais = (sender as FrameworkElement).FindName("A_Cdetais")as FrameworkElement;
 
             
-            if (DepGrid.Visibility = System.Windows.Visibility.Collapsed )
+            
             {
                 DepGrid.Visibility = Visibility.Visible;
                 A_Cdetais.Visibility = Visibility.Visible;
             }
-            else
-            {
-                DepGrid.Visibility = Visibility.Collapsed;
-
-            }
+            
         }
        async private void SubmitBtn_Click(object sender, RoutedEventArgs e)
         {

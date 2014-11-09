@@ -278,15 +278,12 @@
                 </TextBlock.Foreground>
             </TextBlock>
             <ProgressRing x:Name="PrgRing" IsActive="True" Visibility="Collapsed" Margin="1187,95,-968,608" Height="55" Foreground="Black" Width="60"/>
-            <Button Content="Cheque Deposit" Click="DepClick" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.875,2.879" Margin="7,0,0,625" Width="265" Height="66" FontSize="21.333" Foreground="#FF231B1B">
+            <Button Content="Cheque Deposit" Click="DepClick" HorizontalAlignment="Left" VerticalAlignment="Bottom" RenderTransformOrigin="0.875,2.879" Margin="7,0,-3,620" Width="275" Height="66" FontSize="21.333" Foreground="#FF231B1B" Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}">
                 <Button.BorderBrush>
                     <ImageBrush Stretch="Fill"/>
                 </Button.BorderBrush>
-                <Button.Background>
-                    <ImageBrush Stretch="Fill"/>
-                </Button.Background>
             </Button>
-            <Button x:Name="NxtWrkButton" Click="NxtWrkButton_OnClick" Content="Digital Cheque Transfer" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.763,3.036" Margin="7,147,-3,0" Width="275" Height="66" FontSize="21.333" Foreground="#FF130F0F">
+            <Button x:Name="NxtWrkButton" Click="NxtWrkButton_OnClick" Content="Digital Cheque Transfer" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.763,3.036" Margin="7,147,-3,0" Width="275" Height="66" FontSize="21.333" Foreground="#FF130F0F" Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}">
                 <Button.BorderBrush>
                     <ImageBrush Stretch="Fill"/>
                 </Button.BorderBrush>
@@ -326,8 +323,8 @@
     			<Run Text="Name:"/>
                 </TextBlock>
                 <TextBox x:Name="TextBoxAcntHldrName" TextWrapping="Wrap" Margin="532,17,0,689" HorizontalAlignment="Left" Width="196" RenderTransformOrigin="0.643,0.523"/>
-                <TextBlock HorizontalAlignment="Left" Margin="253,54,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
-                <TextBlock HorizontalAlignment="Left" Margin="253,91,0,0" TextWrapping="Wrap" Text="Bank Name" VerticalAlignment="Top" Height="27" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
+                <TextBlock x:Name="TextBlockAcntNo" HorizontalAlignment="Left" Margin="253,54,0,0" TextWrapping="Wrap" Text="Account Number" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
+                <TextBlock x:Name="TextBlockBnkName" HorizontalAlignment="Left" Margin="253,91,0,0" TextWrapping="Wrap" Text="Bank Name" VerticalAlignment="Top" Height="27" Width="274" FontSize="17.333" Foreground="#FF1B1515"/>
                 <TextBlock x:Name="TextBoxChkName" HorizontalAlignment="Left" Margin="253,132,0,0" TextWrapping="Wrap" Text="Check No" VerticalAlignment="Top" Height="28" Width="279" FontSize="17.333" Foreground="#FF1B1515"/>
                 <TextBlock HorizontalAlignment="Left" Margin="253,170,0,0" TextWrapping="Wrap" Text="Cheque Post Date" VerticalAlignment="Top" Height="28" Width="274" FontSize="17.333" Foreground="#FF1B1515" RenderTransformOrigin="0.5,0.5">
                     <TextBlock.RenderTransform>
